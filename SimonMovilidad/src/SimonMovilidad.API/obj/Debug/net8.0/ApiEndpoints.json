@@ -1,0 +1,128 @@
+[
+  {
+    "ContainingType": "SimonMovilidad.API.Controllers.AlertsController",
+    "Method": "GetAlerts",
+    "RelativePath": "api/v1/alerts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimonMovilidad.API.Controllers.TelemetrysController",
+    "Method": "IngestData",
+    "RelativePath": "api/v1/telemetry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SimonMovilidad.Application.Features.Telemetry.CreateTelemetry.CreateTelemetryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimonMovilidad.API.Controllers.UsersController",
+    "Method": "GetUserById",
+    "RelativePath": "api/v1/users/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimonMovilidad.API.Controllers.UsersController",
+    "Method": "LoginUser",
+    "RelativePath": "api/v1/users/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SimonMovilidad.Application.Features.Users.LoginUser.LoginUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimonMovilidad.API.Controllers.UsersController",
+    "Method": "CreateUser",
+    "RelativePath": "api/v1/users/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SimonMovilidad.Application.Features.Users.CreateUser.CreateUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimonMovilidad.API.Controllers.VehiclesController",
+    "Method": "GetVehicleHistory",
+    "RelativePath": "api/v1/vehicles/{vehicleId}/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vehicleId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "startTime",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endTime",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimonMovilidad.API.Controllers.VehiclesController",
+    "Method": "GetLiveVehicles",
+    "RelativePath": "api/v1/vehicles/live",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimonMovilidad.API.Controllers.VehiclesController",
+    "Method": "CreateVehicle",
+    "RelativePath": "api/v1/vehicles/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SimonMovilidad.Application.Features.Vehicles.CreateVehicle.CreateVehicleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

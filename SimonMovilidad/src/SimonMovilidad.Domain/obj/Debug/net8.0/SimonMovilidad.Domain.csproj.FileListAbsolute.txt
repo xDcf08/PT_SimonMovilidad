@@ -1,0 +1,12 @@
+D:\PruebaTecnica\SimonMovilidad\SimonMovilidad\src\SimonMovilidad.Domain\bin\Debug\net8.0\SimonMovilidad.Domain.deps.json
+D:\PruebaTecnica\SimonMovilidad\SimonMovilidad\src\SimonMovilidad.Domain\bin\Debug\net8.0\SimonMovilidad.Domain.dll
+D:\PruebaTecnica\SimonMovilidad\SimonMovilidad\src\SimonMovilidad.Domain\bin\Debug\net8.0\SimonMovilidad.Domain.pdb
+D:\PruebaTecnica\SimonMovilidad\SimonMovilidad\src\SimonMovilidad.Domain\obj\Debug\net8.0\SimonMovilidad.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaTecnica\SimonMovilidad\SimonMovilidad\src\SimonMovilidad.Domain\obj\Debug\net8.0\SimonMovilidad.Domain.AssemblyInfoInputs.cache
+D:\PruebaTecnica\SimonMovilidad\SimonMovilidad\src\SimonMovilidad.Domain\obj\Debug\net8.0\SimonMovilidad.Domain.AssemblyInfo.cs
+D:\PruebaTecnica\SimonMovilidad\SimonMovilidad\src\SimonMovilidad.Domain\obj\Debug\net8.0\SimonMovilidad.Domain.csproj.CoreCompileInputs.cache
+D:\PruebaTecnica\SimonMovilidad\SimonMovilidad\src\SimonMovilidad.Domain\obj\Debug\net8.0\SimonMovilidad.Domain.sourcelink.json
+D:\PruebaTecnica\SimonMovilidad\SimonMovilidad\src\SimonMovilidad.Domain\obj\Debug\net8.0\SimonMovilidad.Domain.dll
+D:\PruebaTecnica\SimonMovilidad\SimonMovilidad\src\SimonMovilidad.Domain\obj\Debug\net8.0\refint\SimonMovilidad.Domain.dll
+D:\PruebaTecnica\SimonMovilidad\SimonMovilidad\src\SimonMovilidad.Domain\obj\Debug\net8.0\SimonMovilidad.Domain.pdb
+D:\PruebaTecnica\SimonMovilidad\SimonMovilidad\src\SimonMovilidad.Domain\obj\Debug\net8.0\ref\SimonMovilidad.Domain.dll

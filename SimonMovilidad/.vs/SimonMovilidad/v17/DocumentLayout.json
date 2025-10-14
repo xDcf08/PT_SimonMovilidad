@@ -1,0 +1,1008 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|solutionrelative:src\\simonmovilidad.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\users\\loginuser\\loginuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\users\\loginuser\\loginuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|solutionrelative:src\\simonmovilidad.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\abstractions\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\abstractions\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|solutionrelative:src\\simonmovilidad.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DC4E82-937A-4A0A-925F-D4EDC9F80CB3}|src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.domain\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DC4E82-937A-4A0A-925F-D4EDC9F80CB3}|src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj|solutionrelative:src\\simonmovilidad.domain\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\users\\loginuser\\loginuserqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\users\\loginuser\\loginuserqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|solutionrelative:src\\simonmovilidad.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.api\\services\\telemetrynotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|solutionrelative:src\\simonmovilidad.api\\services\\telemetrynotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.api\\hubs\\telemetryhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|solutionrelative:src\\simonmovilidad.api\\hubs\\telemetryhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\telemetry\\createtelemetry\\createtelemetrycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\telemetry\\createtelemetry\\createtelemetrycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\abstractions\\notifier\\itelemetrynotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\abstractions\\notifier\\itelemetrynotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\alerts\\getalerts\\getalertsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\alerts\\getalerts\\getalertsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\alerts\\getalerts\\alertsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\alerts\\getalerts\\alertsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DC4E82-937A-4A0A-925F-D4EDC9F80CB3}|src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DC4E82-937A-4A0A-925F-D4EDC9F80CB3}|src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj|solutionrelative:src\\simonmovilidad.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DC4E82-937A-4A0A-925F-D4EDC9F80CB3}|src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.domain\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DC4E82-937A-4A0A-925F-D4EDC9F80CB3}|src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj|solutionrelative:src\\simonmovilidad.domain\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\abstractions\\authentication\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\abstractions\\authentication\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052CFEDA-6C37-4944-B845-85348D7E7DA5}|test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\test\\simonmovilidad.application.unittest\\telemetry\\createtelemetrytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052CFEDA-6C37-4944-B845-85348D7E7DA5}|test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj|solutionrelative:test\\simonmovilidad.application.unittest\\telemetry\\createtelemetrytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.api\\controllers\\alertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|solutionrelative:src\\simonmovilidad.api\\controllers\\alertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052CFEDA-6C37-4944-B845-85348D7E7DA5}|test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\test\\simonmovilidad.application.unittest\\vehicles\\speedcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052CFEDA-6C37-4944-B845-85348D7E7DA5}|test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj|solutionrelative:test\\simonmovilidad.application.unittest\\vehicles\\speedcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052CFEDA-6C37-4944-B845-85348D7E7DA5}|test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\test\\simonmovilidad.application.unittest\\vehicles\\createvehiclecommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052CFEDA-6C37-4944-B845-85348D7E7DA5}|test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj|solutionrelative:test\\simonmovilidad.application.unittest\\vehicles\\createvehiclecommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052CFEDA-6C37-4944-B845-85348D7E7DA5}|test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\test\\simonmovilidad.application.unittest\\users\\loginuserqueryhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052CFEDA-6C37-4944-B845-85348D7E7DA5}|test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj|solutionrelative:test\\simonmovilidad.application.unittest\\users\\loginuserqueryhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052CFEDA-6C37-4944-B845-85348D7E7DA5}|test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\test\\simonmovilidad.application.unittest\\users\\createusercommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052CFEDA-6C37-4944-B845-85348D7E7DA5}|test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj|solutionrelative:test\\simonmovilidad.application.unittest\\users\\createusercommandhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|solutionrelative:src\\simonmovilidad.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|solutionrelative:src\\simonmovilidad.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\alerts\\getalerts\\getalertsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\alerts\\getalerts\\getalertsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|solutionrelative:src\\simonmovilidad.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.persistence\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|solutionrelative:src\\simonmovilidad.persistence\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|solutionrelative:src\\simonmovilidad.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.api\\controllers\\telemetryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|solutionrelative:src\\simonmovilidad.api\\controllers\\telemetryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|solutionrelative:src\\simonmovilidad.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\vehicles\\getvehiclehistory\\getvehiclehistoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\vehicles\\getvehiclehistory\\getvehiclehistoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\vehicles\\getlivelocation\\getlivelocationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\vehicles\\getlivelocation\\getlivelocationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\vehicles\\getvehiclehistory\\getvehiclehistoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\vehicles\\getvehiclehistory\\getvehiclehistoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.persistence\\configurations\\sensorreadingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|solutionrelative:src\\simonmovilidad.persistence\\configurations\\sensorreadingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.persistence\\configurations\\alertconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|solutionrelative:src\\simonmovilidad.persistence\\configurations\\alertconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|solutionrelative:src\\simonmovilidad.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.persistence\\configurations\\vehicleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|solutionrelative:src\\simonmovilidad.persistence\\configurations\\vehicleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.persistence\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9D36D4-30D8-438B-A0AD-35867CEE01C4}|src\\SimonMovilidad.Persistence\\SimonMovilidad.Persistence.csproj|solutionrelative:src\\simonmovilidad.persistence\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.api\\simonmovilidad.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{333C4425-72CB-43FD-86F5-C14219034009}|src\\SimonMovilidad.API\\SimonMovilidad.API.csproj|solutionrelative:src\\simonmovilidad.api\\simonmovilidad.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\users\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\users\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\vehicles\\getlivelocation\\getlivelocationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\vehicles\\getlivelocation\\getlivelocationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\users\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\users\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\users\\getuserbyid\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\users\\getuserbyid\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\dependencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DC4E82-937A-4A0A-925F-D4EDC9F80CB3}|src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.domain\\simonmovilidad.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5DC4E82-937A-4A0A-925F-D4EDC9F80CB3}|src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj|solutionrelative:src\\simonmovilidad.domain\\simonmovilidad.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\users\\loginuser\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\users\\loginuser\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\telemetry\\createtelemetry\\createtelemetrycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\telemetry\\createtelemetry\\createtelemetrycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\vehicles\\createvehicle\\createvehiclecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\vehicles\\createvehicle\\createvehiclecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\vehicles\\createvehicle\\createvehiclecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\vehicles\\createvehicle\\createvehiclecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\vehicles\\createvehicle\\createvehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\vehicles\\createvehicle\\createvehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\services\\speedcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\services\\speedcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DC4E82-937A-4A0A-925F-D4EDC9F80CB3}|src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.domain\\abstractions\\ispeedcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DC4E82-937A-4A0A-925F-D4EDC9F80CB3}|src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj|solutionrelative:src\\simonmovilidad.domain\\abstractions\\ispeedcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\abstractions\\passwordhash\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\abstractions\\passwordhash\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052CFEDA-6C37-4944-B845-85348D7E7DA5}|test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\test\\simonmovilidad.application.unittest\\simonmovilidad.application.unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{052CFEDA-6C37-4944-B845-85348D7E7DA5}|test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj|solutionrelative:test\\simonmovilidad.application.unittest\\simonmovilidad.application.unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\features\\telemetry\\createtelemetry\\createtelemetrycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\features\\telemetry\\createtelemetry\\createtelemetrycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|d:\\pruebatecnica\\simonmovilidad\\simonmovilidad\\src\\simonmovilidad.application\\simonmovilidad.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6893C2B0-7782-45A9-8495-6E8F4772D48E}|src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj|solutionrelative:src\\simonmovilidad.application\\simonmovilidad.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:26:15.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Persistence\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Repositories\\Repository.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Persistence\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:26:14.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Domain\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Domain\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Domain\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Domain\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:26:04.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateTelemetryCommandHandler.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Telemetry\\CreateTelemetry\\CreateTelemetryCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Telemetry\\CreateTelemetry\\CreateTelemetryCommandHandler.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Telemetry\\CreateTelemetry\\CreateTelemetryCommandHandler.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Telemetry\\CreateTelemetry\\CreateTelemetryCommandHandler.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:45:31.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TelemetryNotifier.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Services\\TelemetryNotifier.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.API\\Services\\TelemetryNotifier.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Services\\TelemetryNotifier.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.API\\Services\\TelemetryNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:42:44.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAywD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:54:23.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\SimonMovilidad.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T03:31:07.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginUserQueryHandler.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Users\\LoginUser\\LoginUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Users\\LoginUser\\LoginUserQueryHandler.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Users\\LoginUser\\LoginUserQueryHandler.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Users\\LoginUser\\LoginUserQueryHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:38:24.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T01:06:03.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Domain\\Abstractions\\Error.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Domain\\Abstractions\\Error.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Domain\\Abstractions\\Error.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Domain\\Abstractions\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:49:10.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Domain\\Abstractions\\Result.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Domain\\Abstractions\\Result.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Domain\\Abstractions\\Result.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Domain\\Abstractions\\Result.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:49:14.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:49:53.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginUserQueryValidator.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Users\\LoginUser\\LoginUserQueryValidator.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Users\\LoginUser\\LoginUserQueryValidator.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Users\\LoginUser\\LoginUserQueryValidator.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Users\\LoginUser\\LoginUserQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:38:39.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:50:14.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:51:00.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:51:03.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITelemetryNotifier.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Notifier\\ITelemetryNotifier.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Abstractions\\Notifier\\ITelemetryNotifier.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Notifier\\ITelemetryNotifier.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Abstractions\\Notifier\\ITelemetryNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:51:08.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TelemetryHub.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Hubs\\TelemetryHub.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.API\\Hubs\\TelemetryHub.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Hubs\\TelemetryHub.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.API\\Hubs\\TelemetryHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:52:53.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateTelemetryTest.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\test\\SimonMovilidad.Application.UnitTest\\Telemetry\\CreateTelemetryTest.cs",
+              "RelativeDocumentMoniker": "test\\SimonMovilidad.Application.UnitTest\\Telemetry\\CreateTelemetryTest.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\test\\SimonMovilidad.Application.UnitTest\\Telemetry\\CreateTelemetryTest.cs",
+              "RelativeToolTip": "test\\SimonMovilidad.Application.UnitTest\\Telemetry\\CreateTelemetryTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:40:23.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SpeedCalculatorTests.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\test\\SimonMovilidad.Application.UnitTest\\Vehicles\\SpeedCalculatorTests.cs",
+              "RelativeDocumentMoniker": "test\\SimonMovilidad.Application.UnitTest\\Vehicles\\SpeedCalculatorTests.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\test\\SimonMovilidad.Application.UnitTest\\Vehicles\\SpeedCalculatorTests.cs",
+              "RelativeToolTip": "test\\SimonMovilidad.Application.UnitTest\\Vehicles\\SpeedCalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:49:49.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateVehicleCommandHandlerTest.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\test\\SimonMovilidad.Application.UnitTest\\Vehicles\\CreateVehicleCommandHandlerTest.cs",
+              "RelativeDocumentMoniker": "test\\SimonMovilidad.Application.UnitTest\\Vehicles\\CreateVehicleCommandHandlerTest.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\test\\SimonMovilidad.Application.UnitTest\\Vehicles\\CreateVehicleCommandHandlerTest.cs",
+              "RelativeToolTip": "test\\SimonMovilidad.Application.UnitTest\\Vehicles\\CreateVehicleCommandHandlerTest.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:20:29.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AlertsController.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Controllers\\AlertsController.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.API\\Controllers\\AlertsController.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Controllers\\AlertsController.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.API\\Controllers\\AlertsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T20:19:32.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAlertsQuery.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Alerts\\GetAlerts\\GetAlertsQuery.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Alerts\\GetAlerts\\GetAlertsQuery.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Alerts\\GetAlerts\\GetAlertsQuery.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Alerts\\GetAlerts\\GetAlertsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T20:34:25.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Authentication\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Abstractions\\Authentication\\IJwtProvider.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\Authentication\\IJwtProvider.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Abstractions\\Authentication\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:57:05.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AlertsResponse.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Alerts\\GetAlerts\\AlertsResponse.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Alerts\\GetAlerts\\AlertsResponse.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Alerts\\GetAlerts\\AlertsResponse.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Alerts\\GetAlerts\\AlertsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T20:56:44.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginUserQueryHandlerTest.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\test\\SimonMovilidad.Application.UnitTest\\Users\\LoginUserQueryHandlerTest.cs",
+              "RelativeDocumentMoniker": "test\\SimonMovilidad.Application.UnitTest\\Users\\LoginUserQueryHandlerTest.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\test\\SimonMovilidad.Application.UnitTest\\Users\\LoginUserQueryHandlerTest.cs",
+              "RelativeToolTip": "test\\SimonMovilidad.Application.UnitTest\\Users\\LoginUserQueryHandlerTest.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowDoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:38:33.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateUserCommandHandlerTest.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\test\\SimonMovilidad.Application.UnitTest\\Users\\CreateUserCommandHandlerTest.cs",
+              "RelativeDocumentMoniker": "test\\SimonMovilidad.Application.UnitTest\\Users\\CreateUserCommandHandlerTest.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\test\\SimonMovilidad.Application.UnitTest\\Users\\CreateUserCommandHandlerTest.cs",
+              "RelativeToolTip": "test\\SimonMovilidad.Application.UnitTest\\Users\\CreateUserCommandHandlerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:10:26.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetVehicleHistoryQueryHandler.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\GetVehicleHistory\\GetVehicleHistoryQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Vehicles\\GetVehicleHistory\\GetVehicleHistoryQueryHandler.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\GetVehicleHistory\\GetVehicleHistoryQueryHandler.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Vehicles\\GetVehicleHistory\\GetVehicleHistoryQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:21:25.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.API\\appsettings.json",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\appsettings.json",
+              "RelativeToolTip": "src\\SimonMovilidad.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T03:33:49.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T01:06:03.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetAlertsQueryHandler.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Alerts\\GetAlerts\\GetAlertsQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Alerts\\GetAlerts\\GetAlertsQueryHandler.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Alerts\\GetAlerts\\GetAlertsQueryHandler.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Alerts\\GetAlerts\\GetAlertsQueryHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T20:34:27.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.API\\appsettings.Development.json",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\appsettings.Development.json",
+              "RelativeToolTip": "src\\SimonMovilidad.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T03:33:50.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TelemetrysController.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Controllers\\TelemetrysController.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.API\\Controllers\\TelemetrysController.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Controllers\\TelemetrysController.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.API\\Controllers\\TelemetrysController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:23:07.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.API\\Program.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Program.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T01:53:13.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Authentication\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Persistence\\Authentication\\JwtProvider.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Authentication\\JwtProvider.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Persistence\\Authentication\\JwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:55:59.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetLiveLocationQueryHandler.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\GetLiveLocation\\GetLiveLocationQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Vehicles\\GetLiveLocation\\GetLiveLocationQueryHandler.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\GetLiveLocation\\GetLiveLocationQueryHandler.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Vehicles\\GetLiveLocation\\GetLiveLocationQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:32:11.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.API\\Controllers\\VehiclesController.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.API\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T04:17:44.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetVehicleHistoryQuery.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\GetVehicleHistory\\GetVehicleHistoryQuery.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Vehicles\\GetVehicleHistory\\GetVehicleHistoryQuery.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\GetVehicleHistory\\GetVehicleHistoryQuery.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Vehicles\\GetVehicleHistory\\GetVehicleHistoryQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T05:03:06.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetLiveLocationQuery.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\GetLiveLocation\\GetLiveLocationQuery.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Vehicles\\GetLiveLocation\\GetLiveLocationQuery.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\GetLiveLocation\\GetLiveLocationQuery.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Vehicles\\GetLiveLocation\\GetLiveLocationQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T04:59:56.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Persistence\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Persistence\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:23:48.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AlertConfiguration.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Configurations\\AlertConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Persistence\\Configurations\\AlertConfiguration.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Configurations\\AlertConfiguration.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Persistence\\Configurations\\AlertConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:28:43.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SensorReadingConfiguration.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Configurations\\SensorReadingConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Persistence\\Configurations\\SensorReadingConfiguration.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Configurations\\SensorReadingConfiguration.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Persistence\\Configurations\\SensorReadingConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:30:49.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VehicleConfiguration.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Configurations\\VehicleConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Persistence\\Configurations\\VehicleConfiguration.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Configurations\\VehicleConfiguration.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Persistence\\Configurations\\VehicleConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:25:56.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:28:30.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SimonMovilidad.API.csproj",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\SimonMovilidad.API.csproj",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.API\\SimonMovilidad.API.csproj",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.API\\SimonMovilidad.API.csproj",
+              "RelativeToolTip": "src\\SimonMovilidad.API\\SimonMovilidad.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-13T15:46:07.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Users\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Users\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Users\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Users\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:09:58.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetUserByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Users\\GetUserById\\GetUserByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Users\\GetUserById\\GetUserByIdQueryHandler.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Users\\GetUserById\\GetUserByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Users\\GetUserById\\GetUserByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T05:02:44.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Users\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Users\\GetUserById\\GetUserByIdQuery.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Users\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Users\\GetUserById\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T05:02:48.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Users\\LoginUser\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Users\\LoginUser\\LoginUserRequest.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Users\\LoginUser\\LoginUserRequest.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Users\\LoginUser\\LoginUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:54:13.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SimonMovilidad.Domain.csproj",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj",
+              "RelativeToolTip": "src\\SimonMovilidad.Domain\\SimonMovilidad.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T01:06:53.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DependencyInjectionService.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\DependencyInjectionService.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\DependencyInjectionService.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\DependencyInjectionService.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\DependencyInjectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T01:06:54.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateTelemetryCommandValidator.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Telemetry\\CreateTelemetry\\CreateTelemetryCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Telemetry\\CreateTelemetry\\CreateTelemetryCommandValidator.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Telemetry\\CreateTelemetry\\CreateTelemetryCommandValidator.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Telemetry\\CreateTelemetry\\CreateTelemetryCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:28:47.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateVehicleCommandValidator.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\CreateVehicle\\CreateVehicleCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Vehicles\\CreateVehicle\\CreateVehicleCommandValidator.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\CreateVehicle\\CreateVehicleCommandValidator.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Vehicles\\CreateVehicle\\CreateVehicleCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:20:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreateVehicleCommand.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\CreateVehicle\\CreateVehicleCommand.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Vehicles\\CreateVehicle\\CreateVehicleCommand.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\CreateVehicle\\CreateVehicleCommand.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Vehicles\\CreateVehicle\\CreateVehicleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:26:13.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateVehicleCommandHandler.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\CreateVehicle\\CreateVehicleCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Vehicles\\CreateVehicle\\CreateVehicleCommandHandler.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Vehicles\\CreateVehicle\\CreateVehicleCommandHandler.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Vehicles\\CreateVehicle\\CreateVehicleCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:20:42.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SpeedCalculator.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Services\\SpeedCalculator.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Services\\SpeedCalculator.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Services\\SpeedCalculator.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Services\\SpeedCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:39:03.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ISpeedCalculator.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Domain\\Abstractions\\ISpeedCalculator.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Domain\\Abstractions\\ISpeedCalculator.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Domain\\Abstractions\\ISpeedCalculator.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Domain\\Abstractions\\ISpeedCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:37:59.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\PasswordHash\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Abstractions\\PasswordHash\\IPasswordHasher.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Abstractions\\PasswordHash\\IPasswordHasher.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Abstractions\\PasswordHash\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:26:34.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SimonMovilidad.Application.UnitTest.csproj",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj",
+              "RelativeDocumentMoniker": "test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj",
+              "RelativeToolTip": "test\\SimonMovilidad.Application.UnitTest\\SimonMovilidad.Application.UnitTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-11T16:23:35.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CreateTelemetryCommand.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Telemetry\\CreateTelemetry\\CreateTelemetryCommand.cs",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\Features\\Telemetry\\CreateTelemetry\\CreateTelemetryCommand.cs",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\Features\\Telemetry\\CreateTelemetry\\CreateTelemetryCommand.cs",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\Features\\Telemetry\\CreateTelemetry\\CreateTelemetryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:47:35.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SimonMovilidad.Application.csproj",
+              "DocumentMoniker": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj",
+              "RelativeDocumentMoniker": "src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj",
+              "ToolTip": "D:\\PruebaTecnica\\SimonMovilidad\\SimonMovilidad\\src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj",
+              "RelativeToolTip": "src\\SimonMovilidad.Application\\SimonMovilidad.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-11T15:42:26.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

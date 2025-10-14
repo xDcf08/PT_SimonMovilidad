@@ -1,0 +1,26 @@
+.charts-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  color: var(--color-text-primary);
+  width: 100%;
+}
+
+.charts-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.charts-header button {
+  background-color: var(--color-primary);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.charts-header button:hover {
+  background-color: var(--color-primary-hover);
+}
