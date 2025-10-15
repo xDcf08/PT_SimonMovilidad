@@ -34,6 +34,7 @@ namespace SimonMovilidad.API.Controllers
             return CreatedAtAction(nameof(GetUserById), new { id = userId.Value }, null);
         }
 
+        [Authorize]
         [HttpGet("{id:guid}")]
         public async Task<IActionResult> GetUserById(Guid id)
         {

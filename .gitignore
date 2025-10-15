@@ -1,0 +1,132 @@
+# ==========================================
+# 🟦 .NET / Visual Studio
+# ==========================================
+## Build results
+**/bin/
+**/obj/
+**/refint/
+**/TestResults/
+**/out/
+**/publish/
+
+## Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Logs
+*.log
+*.tlog
+
+## Build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.mdb
+*.dbmdl
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+artifacts/
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## Others
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.idb
+*.aps
+*.res
+*.tlh
+*.tli
+*.tmp
+*.bak
+*.backup
+*.old
+*.orig
+
+# ==========================================
+# 🟩 Node / React / Expo / Web
+# ==========================================
+# Dependencies
+node_modules/
+.pnpm-store/
+.pnp.*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+dist/
+build/
+.next/
+.expo/
+web-build/
+.cache/
+
+# Expo specific
+.expo-shared/
+.expo/
+expo-env.d.ts
+
+# Metro / React Native
+*.packager
+*.bundle
+*.map
+
+# iOS / Android native folders
+ios/
+android/
+*.xcuserdata/
+*.xcworkspace/
+*.gradle/
+*.keystore
+
+# Environment files (VERY IMPORTANT)
+.env
+.env.local
+.env.development.local
+.env.production.local
+.env.*.local
+
+# ==========================================
+# 🟨 IDEs / Editors / OS
+# ==========================================
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ==========================================
+# 🟧 Documentation / Misc
+# ==========================================
+# Optional: ignore generated docs or temp files
+docs/.vitepress/cache/
+docs/.docusaurus/
+*.tmp
+*.bak
+*.swp
+*.lock

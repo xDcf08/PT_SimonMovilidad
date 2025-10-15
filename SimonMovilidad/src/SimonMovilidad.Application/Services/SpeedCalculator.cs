@@ -9,21 +9,29 @@ namespace SimonMovilidad.Application.Services
         {
             if (readings.Count < 2)
             {
-                yield break; //Devuelve una lista vacía
+                yield break;
             }
 
-            for (int i = 1; i < readings.Count(); i++)
+            for (int i = 1; i < readings.Count; i++)
             {
-                var previous = readings.ElementAt(i - 1);
-                var current = readings.ElementAt(i);
+                var previousReading = readings[i - 1];
+                var currentReading = readings[i];
 
-                var timeStamp = current.TimeStamp - previous.TimeStamp;
-                var distance =
-                    CalculateDistance(
-                        (double)previous.Latitude, (double)previous.Longitude,
-                        (double)current.Latitude, (double)current.Longitude);
+                var timeDifference = currentReading.TimeStamp - previousReading.TimeStamp;
 
-                yield return distance / timeStamp.TotalHours;
+                if (timeDifference.TotalHours <= 0)
+                {
+                    yield return 0.0;
+                    continue;         
+                }
+
+                var distanceInKm = CalculateDistance(
+                    (double)previousReading.Latitude, (double)previousReading.Longitude,
+                    (double)currentReading.Latitude, (double)currentReading.Longitude);
+
+                var speedInKph = distanceInKm / timeDifference.TotalHours;
+
+                yield return speedInKph;
             }
         }
 

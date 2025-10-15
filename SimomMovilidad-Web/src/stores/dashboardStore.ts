@@ -1,13 +1,15 @@
 import { create } from "zustand";
 import type { VehicleLocation } from "../models/VehicleModels";
-import { persist } from "zustand/middleware";
+import { createJSONStorage, persist } from "zustand/middleware";
 import { vehicleService } from "../services/vehicleService";
 
 interface DashboardState {
   vehicles: VehicleLocation[];
   isLoading: boolean;
+  isHydrated: boolean;
   fetchVehicles: () => Promise<void>;
   updateVehicleLocation: (update: VehicleLocation) => void;
+  setHydrated: () => void;
 }
 
 
@@ -16,6 +18,8 @@ export const useDashboardStore = create<DashboardState>()(
     (set) => ({
       vehicles: [],
       isLoading: true,
+      isHydrated: false,
+      setHydrated: () => set({ isHydrated: true }),
       fetchVehicles: async () => {
         try {
           const liveVehicles = await vehicleService.getLiveVehicles();
@@ -36,7 +40,11 @@ export const useDashboardStore = create<DashboardState>()(
         })
       }
     }), {
-      name: 'dashboard-storage'
+      name: 'dashboard-storage',
+      storage: createJSONStorage(() => localStorage),
+      onRehydrateStorage: () => (state) => {
+        state?.setHydrated()
+      }
     }
   )
 )
