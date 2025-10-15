@@ -7,7 +7,7 @@ export interface VehicleLocation  {
 }
 
 export interface HistoricalDataPoint {
-  timestamp: string;
+  timeStamp: string;
   fuelLevel: number;
-  speedKph: number;
+  speedKmH: number;
 }
